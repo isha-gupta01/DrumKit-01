@@ -3,8 +3,6 @@ body{
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    transform: rotate(90deg);
-    transform-origin: center;
 }
 .keys{
     width: 150vh;
