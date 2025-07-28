@@ -16,7 +16,7 @@
 ## 🎥 Preview
 
 <!-- Replace with actual image or gif path -->
-![DrumKit Preview](https://user-images.githubusercontent.com/isha-gupta01/your-preview-image.gif)
+![DrumKit Preview](<img width="1919" height="1070" alt="Image" src="https://github.com/user-attachments/assets/71f94a47-e3fd-4b11-a9c8-0510cb1085db" />)
 
 ---
 
