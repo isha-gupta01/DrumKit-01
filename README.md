@@ -16,7 +16,7 @@
 ## 🎥 Preview
 
 <!-- Replace with actual image or gif path -->
-![DrumKit Preview](<img width="1919" height="1070" alt="Image" src="https://github.com/user-attachments/assets/71f94a47-e3fd-4b11-a9c8-0510cb1085db" />)
+![DrumKit Preview](https://private-user-images.githubusercontent.com/161332458/471450637-76ffb316-6d44-41b0-b5a0-2e467b5ff54c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM2OTg4NjAsIm5iZiI6MTc1MzY5ODU2MCwicGF0aCI6Ii8xNjEzMzI0NTgvNDcxNDUwNjM3LTc2ZmZiMzE2LTZkNDQtNDFiMC1iNWEwLTJlNDY3YjVmZjU0Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOFQxMDI5MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MDY1YzJhNGJhNGU1M2VmOTM4ZGRhODI5OTE2NDcxOGU3ZDFkYTYwYTRhZTY5OTllNzIyZjJlNjZjOTBkMmE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VqQyeRVhBxwUV3ajDMhc8zfyqFc0zymMiHE3zJJgVvE)
 
 ---
 
