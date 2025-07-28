@@ -1,8 +1,5 @@
 # 🥁 DrumKit-01
 
-[![GitHub license](https://img.shields.io/github/license/isha-gupta01/DrumKit-01?style=flat)](https://github.com/isha-gupta01/DrumKit-01/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/isha-gupta01/DrumKit-01?style=flat)](https://github.com/isha-gupta01/DrumKit-01/stargazers)
-
 **DrumKit-01** is an interactive virtual drum kit that plays different drum sounds when specific keys are pressed on the keyboard. Built using **HTML**, **CSS**, and **JavaScript**, this project demonstrates DOM manipulation, audio playback, and key event handling in a fun and engaging way.
 
 ---
